@@ -1,3 +1,5 @@
-#Get form value
+#Get Form Value
 
-jQuery plugin
+フォームの値を取ってくるやつ。jQueryのプラグイン
+
+テストなんて無いからうまく動くかわからないよ
